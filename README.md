@@ -1,5 +1,6 @@
 - 🔹 Sandip Gautam
 - 🎮 Aspiring Game Developer | Learning Unreal Engine (Blueprints/C++)
+- 🎓 BSc.CSIT Student @ Godawari College
 - 💡 Passionate about creating immersive single-player games with strong narrativesn
 - 📚 Currently enhancing my skills in C++ and Blueprint scripting
 - 🤝 Open to collaboration on indie game projects and game jams.
