@@ -5,7 +5,7 @@
 - 🤝 Open to collaboration on indie game projects and game jams.
 - 📬 Connect with me: [LinkedIn](https://www.linkedin.com/in/sandip-gautam-824366315/)
 - ⚡ Fun fact: I’m inspired by games like God of War & The Legend of Zelda: Tears of the Kingdom
-- 💬 Pronouns: He/Him
+- 💬 Pronouns: He/Him 
 
 <!---
 oGautamo/oGautamo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
